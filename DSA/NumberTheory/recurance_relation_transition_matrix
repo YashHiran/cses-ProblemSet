@@ -1,0 +1,44 @@
+fn = fn-1 + f n-2
+
+
+[F1	F2]  X [0   1]   =  [F2	F3]
+			1  1
+
+
+[Fn-1	Fn]  X [0   1]^n-1   =  [Fn	Fn+1]
+			1  1
+
+
+
+5th
+
+
+
+
+
+Modulo arithmetic works for
+	- addition
+	- subtraction
+	- multiplication 
+	- power. => a^b (mod 3) = (a % 3) ^ b.
+		- Note: do not apply moduko on the power variable.
+
+
+Total number of divisors on Number 
+	Number = A^a + B ^ b + c ^ c. (here A, B are prime factor of number)
+	total_divisors = (a + 1) * (b + 1) * (c + 1)
+
+	e.g 10 = 2 ^ 1 + 5 ^ 1
+	= 4 (1,2,5,10)
+
+
+
+Segmented sieve
+	- Same as sieve with hashing
+	- Say L..R is the range the create and arr of R - L + 1
+	- where 0 index present L ...
+	- Apply same logic as sieve. Use all pre-calculated primes from normal sieves
+
+
+
+

@@ -1,0 +1,31 @@
+- https://leetcode.com/problems/range-sum-query-mutable/description/
+
+Geometry
+   - https://leetcode.com/problems/k-closest-points-to-origin/description/
+   - https://leetcode.com/problems/separate-squares-i
+   - https://leetcode.com/problems/minimum-area-rectangle/description/ (https://www.youtube.com/watch?v=vvRY7bS4OMI)
+    - https://leetcode.com/problems/detect-squares/description/
+   -https://leetcode.com/problems/minimum-area-rectangle-ii/description/  (https://www.youtube.com/watch?v=VBONBpGhIsQ)
+    https://cses.fi/problemset/ 
+
+
+LCM(a, b) = a * b / gcd(a, b)
+
+--
+Area of rectange and parallelogram= 1/2 * cross product of diagonals. 
+Parallelogram and rectangle have same same mid point for both diagonals.
+Rectangle same length of diagonals and angle is 90. for parallelogram it can be any same/different
+
+cross is sin and is vector product and sin 90 = 1. and dot is cos for angle.
+---
+
+Game theory
+- https://leetcode.com/problems/predict-the-winner/description/.         
+
+probablity 
+ - https://www.youtube.com/watch?v=ps2ZTj4DAm0
+- https://leetcode.com/problems/random-pick-with-weight/description/
+- https://leetcode.com/problems/implement-rand10-using-rand7/description/
+
+ reserviour sampling (probablity
+  - https://leetcode.com/problems/linked-list-random-node/description/ -> https://www.youtube.com/watch?v=9vC4I5sKFsw
